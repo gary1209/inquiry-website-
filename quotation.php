@@ -31,7 +31,7 @@
 <section id="main" style="width:80%;">
 
 	<form method="post" action="quotation_finish.php">
-		<img src="images/pm5005.jpg">
+		<img style="width: 100%" src="images/pm5005.jpg">
 		<div>商品1</div>
 		<div>規 格：Marantz PM5005<br /></div>
 		<div>定 價：16000 元</div>
@@ -53,7 +53,7 @@
 			</div>
 		</div>
 
-	    <img src="images/speaker.jpg">
+	    <img style="width: 100%" src="images/speaker.jpg">
 		<div>商品2</div>
 		<div>規 格：Crystal AudioVideo THX SELECT<br /></div>
 		<div>定 價：18000 元</div>
@@ -72,7 +72,7 @@
 			</div>
 		</div>
 
-	    <img src="images/denon.jpg">
+	    <img style="width: 100%" src="images/denon.jpg">
 		<div>商品3</div>
 		<div>規 格：Denon AVR-X4100W<br /></div>
 		<div>定 價：79900 元</div>
