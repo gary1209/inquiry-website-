@@ -132,7 +132,7 @@
 		font-weight: 300;
 		line-height: 2;
 		letter-spacing: 0.2em;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -331,7 +331,7 @@
 			position: absolute;
 			right: 0;
 			text-align: center;
-			top: 0;
+			bottom: 0;
 			width: 2.75em;
 		}
 
